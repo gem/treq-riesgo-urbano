@@ -1,0 +1,3 @@
+#,,,,,,,,,,,,,,,"generated_by='OpenQuake engine 3.15.0-gite09ae1ae50', start_date='2022-05-12T21:16:56', checksum=2312394196, investigation_time=None, risk_investigation_time=None"
+loss_type,no_damage,slight,moderate,extensive,complete,collapsed_value,collapsed_ratio,fatalities_value,fatalities_ratio,homeless_value,homeless_ratio,injured_value,injured_ratio,losses_value,losses_ratio
+structural,3.15242E+05,2.81573E+04,3.53777E+03,9.63430E+02,8.09960E+02,8.70980E+01,2.49772E-04,5.05584E+01,2.47215E-05,9.72217E+03,4.75385E-03,1.56325E+03,7.64384E-04,4.35155E+08,7.44355E-03

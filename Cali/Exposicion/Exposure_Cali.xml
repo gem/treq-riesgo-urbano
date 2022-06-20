@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns="http://openquake.org/xmlns/nrml/0.4" xmlns:gml="http://www.opengis.net/gml">
+
+  <exposureModel category="buildings" id="exposure" taxonomySource="Cali taxonomy">
+    <description>Cali exposure model April 2022</description>
+
+    <conversions>
+      <costTypes>
+        <costType name="structural" type="aggregated" unit="USD"/>
+      </costTypes>
+    </conversions>
+
+    <occupancyPeriods>night</occupancyPeriods>
+
+    <tagNames>COMUNA ID_BARRIO INCOME_LEVEL FLOORS OCC MICROZONE</tagNames>
+    <assets>
+      Exposure_Cali_Colombia.csv
+    </assets>
+  </exposureModel>
+
+</nrml>
