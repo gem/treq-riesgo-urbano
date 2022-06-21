@@ -1,4 +1,6 @@
-# ✨ PROYECTO TREQ <br/> (Comunicación y Formación en la Evaluación de Riesgos por Terremotos)
+<div align='center'>
+
+  # ✨ PROYECTO TREQ <br/> (Comunicación y Formación en la Evaluación de Riesgos por Terremotos)
 
 
 <a href='Quito'>
@@ -37,3 +39,8 @@ El proyecto TREQ, se realizó entre septiembre de 2020 y junio de 2021. Esta fue
 
 
 Página web del proyecto: https://www.globalquakemodel.org/proj/treq-es
+
+<div align='right'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+</div>

@@ -8,25 +8,14 @@ Como paso inicial para el desarrollo de este modelo se complementó la geodataba
 ## Variables básicas para la clasificación de edificaciones
 Se identificaron cuatro variables como punto de partida para la clasificación de las edificaciones: estrato socioeconómico, rango de alturas, uso de la edificación y período de construcción.
 
-<p align="center">
-  <img src="../Mapas/perfil_mitigacion.png" alt="Perfiles de escenarios de riesgo" width="700">
-</p>
+<p >
+  <img src="../Mapas/Modelo_Exposicion_Uso.png" alt="Modelo de exposición - Uso de la edificación" width="250">
 
+  <img src="../Mapas/Modelo_Exposicion_Periodo_Construccion.png" alt="Modelo de exposición - Periodo de construccion" width="250">
 
-<p align="center">
-  <img src="../Mapas/Modelo_Exposicion_Uso.png" alt="Modelo de exposición - Uso de la edificación" width="400">
-</p>
+  <img src="../Mapas/Modelo_Exposicion_Alturas.png" alt="Modelo de exposición - Rango de alturas" width="250">
 
-<p align="center">
-  <img src="../Mapas/Modelo_Exposicion_Periodo_Construccion.png" alt="Modelo de exposición - Periodo de construccion" width="400">
-</p>
-
-<p align="center">
-  <img src="../Mapas/Modelo_Exposicion_Alturas.png" alt="Modelo de exposición - Rango de alturas" width="400">
-</p>
-
-<p align="center">
-  <img src="../Mapas/Modelo_Exposicion_Estrato.png" alt="Modelo de exposición - Estrato socio-económico" width="400">
+  <img src="../Mapas/Modelo_Exposicion_Estrato.png" alt="Modelo de exposición - Estrato socio-económico" width="250">
 </p>
 
 
@@ -38,4 +27,4 @@ Para el uso del modelo, es decisión del analista cómo incorporar la incertidum
 
 
 ## Referencias
-Detalles adicionales sobre la metodología pueden encontrarse en [Yepes-Estrada et. al 2022](./Yepes-Estrada_et_al_2022.pdf)
+Detalles adicionales sobre la metodología pueden encontrarse en [Yepes-Estrada et. al 2022](https://www.researchgate.net/publication/361438249_MODELO_DE_EXPOSICION_PARA_LA_EVALUACION_DEL_RIESGO_CATASTROFICO_DE_SANTIAGO_DE_CALI_COLOMBIA_EXPOSURE_MODEL_FOR_CATASTROPHIC_RISK_ASSESSMENT_OF_SANTIAGO_DE_CALI_COLOMBIA)
