@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns="http://openquake.org/xmlns/nrml/0.4" xmlns:gml="http://www.opengis.net/gml">
+
+  <exposureModel category="buildings" id="exposure" taxonomySource="GEM taxonomy">
+    <description>exposure model</description>
+
+    <conversions>
+      <costTypes>
+        <costType name="structural" type="aggregated" unit="USD"/>
+      </costTypes>
+    </conversions>
+
+    <occupancyPeriods>night</occupancyPeriods>
+
+    <tagNames>occupancy material llrs code height CUBIERTA id_barrio nm_barrio id_parroquia nm_parroquia id_zona nm_zona MICROZONE e_taxonomy</tagNames>
+    <assets>
+    Exposure_Quito_br1_volcanic.csv
+    </assets>
+  </exposureModel>
+
+</nrml>
