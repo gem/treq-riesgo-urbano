@@ -21,7 +21,7 @@ Ingeominas y Dagma (2005): Estudio de microzonificación sísmica de Santiago de
 </p>
 
 ## Funciones de amplificación
-La siguiente figura presenta el modelo de respuesta del suelo para, dónde se grafican las funciones de amplificación (AF) medias en cada zona homogénea de la microzonificación para diferentes períodos. La zona “noaf” se usa para edificaciones fuera de las microzonas para lo que se asigna un AF=1 (sin amplificación) y en su lugar se usa un Vs30 inferido.
+La siguiente figura presenta el modelo de respuesta del suelo, dónde se grafican las [funciones de amplificación](./soil_amplification_model_20210825_sigaf03.csv) (AF) medias en cada zona homogénea de la microzonificación para diferentes períodos. La zona “noaf” se usa para edificaciones fuera de las microzonas para lo que se asigna un AF=1 (sin amplificación) y en su lugar se usa un Vs30 inferido.
 
 <p align="left">
   <img src="./Funciones_Amplificacion.png" alt="Cali_Microzonificacion" width="700">
