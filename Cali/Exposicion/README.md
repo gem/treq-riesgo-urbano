@@ -12,13 +12,13 @@ Los detalles del modelo de exposición pueden encontrarse en:
 Se identificaron cuatro variables como punto de partida para la clasificación de las edificaciones: estrato socioeconómico, rango de alturas, uso de la edificación y período de construcción.
 
 <p >
-  <img src="../Mapas/Modelo_Exposicion_Uso.png" alt="Modelo de exposición - Uso de la edificación" width="250">
+  <img src="../Mapas/exposicion/Modelo_Exposicion_Uso.png" alt="Modelo de exposición - Uso de la edificación" width="250">
 
-  <img src="../Mapas/Modelo_Exposicion_Periodo_Construccion.png" alt="Modelo de exposición - Periodo de construccion" width="250">
+  <img src="../Mapas/exposicion/Modelo_Exposicion_Periodo_Construccion.png" alt="Modelo de exposición - Periodo de construccion" width="250">
 
-  <img src="../Mapas/Modelo_Exposicion_Alturas.png" alt="Modelo de exposición - Rango de alturas" width="250">
+  <img src="../Mapas/exposicion/Modelo_Exposicion_Alturas.png" alt="Modelo de exposición - Rango de alturas" width="250">
 
-  <img src="../Mapas/Modelo_Exposicion_Estrato.png" alt="Modelo de exposición - Estrato socio-económico" width="250">
+  <img src="../Mapas/exposicion/Modelo_Exposicion_Estrato.png" alt="Modelo de exposición - Estrato socio-económico" width="250">
 </p>
 
 

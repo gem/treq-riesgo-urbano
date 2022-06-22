@@ -9,13 +9,13 @@ Para Santiago de los Caballeros se recopilaron más de 10 conjuntos de datos dif
 Se identificaron cuatro variables como punto de partida para la clasificación de las edificaciones: estrato socioeconómico, rango de alturas, uso de la edificación y período de construcción.
 
 <p >
-  <img src="../Mapas/SDC_Ano.png" alt="Modelo de exposición - Modelo de exposición - Periodo de construccion" width="250">
+  <img src="../Mapas/exposicion/SDC_Ano.png" alt="Modelo de exposición - Modelo de exposición - Periodo de construccion" width="250">
 
-  <img src="../Mapas/SDC_Material_Paredes.png" alt="Modelo de exposición - Material de paredes" width="250">
+  <img src="../Mapas/exposicion/SDC_Material_Paredes.png" alt="Modelo de exposición - Material de paredes" width="250">
 
-  <img src="../Mapas/SDC_costos.png" alt="Modelo de exposición - Costo por lote por m2" width="250">
+  <img src="../Mapas/exposicion/SDC_costos.png" alt="Modelo de exposición - Costo por lote por m2" width="250">
 
-  <img src="../Mapas/SDC_calidad.png" alt="Modelo de exposición - Calidad de la construcción" width="250">
+  <img src="../Mapas/exposicion/SDC_calidad.png" alt="Modelo de exposición - Calidad de la construcción" width="250">
 </p>
 
 
