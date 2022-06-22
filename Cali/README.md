@@ -19,6 +19,8 @@ Available information in the folders: <br />
 
 ## Vistazo de los resultados de riesgo sísmico
 
+El reporte [Evaluación del riesgo sísmico para Santiago de Cali](./TREQ_Deliverable_D262_Riesgo_Sismico_Cali.pdf) presenta los detalles de los modelos utilizados y resultados obtenidos.
+
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
   <img src="./Riesgo/perfil_mitigacion.png" alt="Perfiles de escenarios de riesgo" width="700">
@@ -62,6 +64,7 @@ En particular, queremos agradecer a la Alcaldía de Santiago de Cali por su apor
 | Juliana Arenas Guzman| Universidad EAFIT |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
 | Hector Jose Perez Barrera  | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
+| Kishor Jaiwal | United States Geological Survey (USGS) |
 | Lana Todorović | Fundación GEM |
 | Marco Pagani | Fundación GEM |
 | Miguel Genaro Mora | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
