@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nrml xmlns:gml="http://www.opengis.net/gml" xmlns="http://openquake.org/xmlns/nrml/0.4">
+  <exposureModel id="exposure" category="buildings" taxonomySource="GEM taxonomy">
+    <description>exposure model</description>
+    <conversions>
+      <costTypes>
+        <costType name="structural" type="aggregated" unit="USD"/>
+      </costTypes>
+    </conversions>
+    <occupancyPeriods>night</occupancyPeriods>
+    <tagNames>occupancy material llrs code height nm_subbarrio id_subbarrio nm_barrio id_barrio nm_distrito id_distrito MICROZONE</tagNames>
+    <assets>
+    Exposure_Santiago_br1.csv
+    </assets>
+  </exposureModel>
+</nrml>
