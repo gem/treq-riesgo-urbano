@@ -3,7 +3,7 @@
 Esta carpeta contiene las rupturas de los escenarios sísmicos en formato `*.npy` compatible con OpenQuake.
 Este material fue desarrollado por el equipo del USGS.
 
-La siguiente tabla incluye la descripción de los eventos modelados y su respectivo archivo:
+La siguiente tabla incluye la descripción de los eventos modelados y su respectivo archivo de ruptura. La figura incluye la localización de los eventos:
 
 | Archivo | Descripción |
 | -------- | --------- |
@@ -20,3 +20,7 @@ La siguiente tabla incluye la descripción de los eventos modelados y su respect
 | usp0006skc.npy | Terremoto de 1995 - Mw 6.4 - 52 km de profundidad |
 | usp00091q3.npy | Terremoto de 1999 - Mw 6.1 - 15 km de profundidad |
 | usp000d8gx.npy | Terremoto de 2004 - Mw 7.2 - 15 km de profundidad |
+
+<p align="left">
+  <img src="./epicenter_location.png" alt="Cali_Microzonificacion" width="500">
+</p>
