@@ -1,3 +1,8 @@
+<div align='right'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+</div>
+
 <div align='center'>
 
   # ✨ PROYECTO TREQ <br/> (Comunicación y Formación en la Evaluación de Riesgos por Terremotos)
@@ -40,7 +45,15 @@ El proyecto TREQ, se realizó entre septiembre de 2020 y junio de 2021. Esta fue
 
 Página web del proyecto: https://www.globalquakemodel.org/proj/treq-es
 
-<div align='right'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
-</div>
+
+# Licencia
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+Esta trabajo está bajo una
+[Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/deed.es
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
