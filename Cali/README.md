@@ -27,6 +27,23 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 ### Perfiles de respuesta (escenarios sísmicos)
 <p align="center">
   <img src="./Riesgo/perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo" width="700">
+
+| Evento | Descripción                                                 | Magnitud (Mw) | Profundiad (km) |
+|--------|-------------------------------------------------------------|---------------|-----------------|
+| 1      | Evento Mw 8.8 en el pacífico - Plaza de Nazca               | 8.8           | 22              |
+| 2      | Evento de Mw 6.5 al este - Saliente de Buga                 | 6.5           | 10              |
+| 3      | Evento de Mw 6.5 al noreste de la ciudad - Saliente de Buga | 6.5           | 10              |
+| 4      | Evento de Mw 6.5 - Cucuana dextral                          | 6.5           | 10              |
+| 5      | Evento de Mw 6.5 - Dagua Calima                             | 6.5           | 10              |
+| 6      | Terremoto de 1957                                           | 6.1           | 52              |
+| 7      | Terremoto de 1925                                           | 6.3           | 15              |
+| 8      | Terremoto de 1906                                           | 8.8           | 20              |
+| 9      | Terremoto de 1991                                           | 7.2           | 21              |
+| 10     | Terremoto de 1994                                           | 6.8           | 12              |
+| 11     | Terremoto de 1995                                           | 6.4           | 73              |
+| 12     | Terremoto de 1999                                           | 6.1           | 52              |
+| 13     | Terremoto de 2004                                           | 7.2           | 15              |
+
 </p>
 
 

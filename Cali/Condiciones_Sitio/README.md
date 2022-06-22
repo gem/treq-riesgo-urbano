@@ -24,5 +24,7 @@ Ingeominas y Dagma (2005): Estudio de microzonificación sísmica de Santiago de
 La siguiente figura presenta el modelo de respuesta del suelo, dónde se grafican las [funciones de amplificación](./soil_amplification_model_20210825_sigaf03.csv) (AF) medias en cada zona homogénea de la microzonificación para diferentes períodos. La zona “noaf” se usa para edificaciones fuera de las microzonas para lo que se asigna un AF=1 (sin amplificación) y en su lugar se usa un Vs30 inferido.
 
 <p align="left">
-  <img src="./Funciones_Amplificacion.png" alt="Cali_Microzonificacion" width="700">
+  <img src="./Funciones_Amplificacion.png" alt="Cali_Funciones_Amplificacion" width="700">
 </p>
+
+El reporte [D2.2.4 Análisis de la amenaza sísmica a escala urbana](https://www.globalquakemodel.org/proj/treq-es?tab=publications))presenta en detalle los datos y metodología para el desarrollo de las funciones de amplificación.

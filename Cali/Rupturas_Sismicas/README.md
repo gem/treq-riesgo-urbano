@@ -22,5 +22,5 @@ La siguiente tabla incluye la descripción de los eventos modelados y su respect
 | usp000d8gx.npy | Terremoto de 2004 - Mw 7.2 - 15 km de profundidad |
 
 <p align="left">
-  <img src="./epicenter_location.png" alt="Cali_Microzonificacion" width="500">
+  <img src="./epicenter_location.png" alt="epicenter_location" width="500">
 </p>
