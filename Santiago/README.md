@@ -94,7 +94,7 @@ En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros 
 | Leonardo Reyes | Madera ONESVIE |
 | Marco Antonio Gomez | Oficina de Ordenamiento Territorial de Santiago |
 | Marco Pagani | Fundación GEM |
-| María Betania Roque de Medina | Servicio Geológico Nacional (SGN) |
+| María Betania Roque de Medina | Antiguo miembro del Servicio Geológico Nacional (SGN) |
 | Pedro Iván Marquez | ONESVIE |
 | Ramon Delanoy | Universidad Autónoma de Santo Domingo (UASD) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |
