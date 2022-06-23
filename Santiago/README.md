@@ -65,11 +65,20 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 
 
 ## 🌟 Colaboradores 
+<div align='right'>
 
-Nos gustaría agradecer a las personas que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad.
-Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
+  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="200"/>
 
-En particular, queremos agradecer a la Alcaldía de Santiago de los Caballeros por su aporte, a través de las oficinas de Planeación Municipal y de la Secretaría de Gestión del Riesgo de Emergencias y Desastres.
+  <img src="https://www.sgn.gob.do/images/Logos/favicon.png" alt="SGN" width="200"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+</div>
+
+Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
+
+En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros por su aporte, a través de la Oficina de Ordenamiento Territorial y al Servicio Geológico Nacional.
 
 
 | NOMBRE                         | INSTITUCIÓN                     |
@@ -80,10 +89,10 @@ En particular, queremos agradecer a la Alcaldía de Santiago de los Caballeros p
 | Edwin García | Servicio Geológico Nacional (SGN) |
 | Freddy Duran | Servicio Geológico Nacional (SGN) |
 | Galvy Núñez | ONESVIE |
-| Kerman | Oficina de Planeación Territorial, Ayuntamiento del Municipio de Santiago |
+| Kerman | Oficina de Ordenamiento Territorial de Santiago |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
 | Leonardo Reyes | Madera ONESVIE |
-| Marco Gomez | Oficina de Planeación Territorial, Ayuntamiento del Municipio de Santiago |
+| Marco Antonio Gomez | Oficina de Ordenamiento Territorial de Santiago |
 | Marco Pagani | Fundación GEM |
 | María Betania Roque de Medina | Servicio Geológico Nacional (SGN) |
 | Pedro Iván Marquez | ONESVIE |

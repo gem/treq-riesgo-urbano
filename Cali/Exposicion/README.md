@@ -8,6 +8,7 @@ Los detalles del modelo de exposición pueden encontrarse en:
 - Reporte sobre la [Evaluación del Riesgo Sísmico en Cali](../TREQ_Deliverable_D262_Riesgo_Sismico_Cali.pdf)
 - Reporte sobre las [tipologías constructivas en la ciudades de TREQ](https://www.globalquakemodel.org/proj/treq-es?tab=publications)
 
+
 ## Variables básicas para la clasificación de edificaciones
 Se identificaron cuatro variables como punto de partida para la clasificación de las edificaciones: estrato socioeconómico, rango de alturas, uso de la edificación y período de construcción.
 
@@ -20,6 +21,17 @@ Se identificaron cuatro variables como punto de partida para la clasificación d
 
   <img src="../Mapas/exposicion/Modelo_Exposicion_Estrato.png" alt="Modelo de exposición - Estrato socio-económico" width="250">
 </p>
+
+## Información en las bases de datos de exposición
+El modelo de exposición hace referencia a:
+- **Material constructivo:** es el material predominante del sistema constructivo de la edificación. Los más comunes son la mampostería y sus variantes (confinada, reforzada, simple o sin refuerzo), el concreto reforzado y otras tipologías en menor proporción (madera, adobe, bahareque).
+- **Sistema resistente a las cargas laterales:** es el sistema que resiste la acción de las fuerzas sísmicas. Los más comunes son los muros de cortante y los marcos o pórticos.
+- **Número de pisos:** esta veriable se encuentra directamente en la base de datos.
+- **Ductilidad esperada de la edificación:** hace referencia a la capacidad de la estructura a soportar cargas laterales sin perder su integridad o poner en riesgo la vida de los ocupantes, los componentes y sus contenidos. A mayor ductilidad, mejor el desempeño de la estructura durante un sismo. Por lo general una estructura se clasifica con baja, mediana o alta ductilidad. Esta variable se asocia con el cumplimiento de las disposiciones del código sísmico o la formalidad de la construcción.
+- **Uso de la edificación (ocupación):** se refiere al uso, ocupación o destino de la edificación, por ejemplo, residencial, comercial, industrial, institucional, educativo y médico o de salud.
+- **Valor del costo de reemplazo:** es el valor económico de la estructura y sus componentes estructurales y no estructurales. Excluye el valor del lote. Este valor puede ser mayor al costo actual de la edificación, si esta debe construirse de nuevo teniendo en cuenta nuevas previsiones de calidad constructiva y sismo-resistente.
+
+Para la clasificación de las estructuras se utiliza la taxonomía de GEM, la cual cuenta con un [glosario en línea](https://taxonomy.openquake.org/) el cual facilita el entendimiento de los códigos utilizados para la clasificación de la exposición y vulnerabilidad.
 
 
 ## Incertidumbres en el modelo

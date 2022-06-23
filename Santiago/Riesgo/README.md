@@ -13,19 +13,20 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 
 
 ## Cálculos probabilísticos (Event_Based)
-| Carpeta | Descripción |
-| ------- | ----------- |
-|  47360  |  Santiago EB-damage (soil=AFs, it=1, ses=1000, branches=100); Exposure=br1|
+| Carpeta_ref | Descripción |
+| ----------- | ----------- |
+|    47360    |  Santiago EB-damage (soil=AFs, it=1, ses=1000, branches=100); Exposure=br1|
 
 
 ## Escenarios sísmicos (Scenarios)
-| Carpeta | Descripción |
-| ------- | ----------- |
-|  47363  | Execute Santiago scenario damage id:dr_60_septentrional_western.npy |
-|  47365  | Execute Santiago scenario damage id:dr_65_septentrional_central.npy |
-|  47367  | Execute Santiago scenario damage id:dr_75_septentrional_central.npy |
-|  47369  | Execute Santiago scenario damage id:dr_75_septentrional_western.npy |
-|  47371  | Execute Santiago scenario damage id:iscgem891713_DR1953.npy |
-|  47373  | Execute Santiago scenario damage id:iscgem898498.npy |
-|  47375  | Execute Santiago scenario damage id:usp000c89d_DR2003.npy |
-|  47377  | Execute Santiago scenario damage id:usp000h60h.npy |
+
+| Evento | Carpeta_ref | Archivo                         | Descripción                   | Magnitud (Mw) | Profundiad (km) |
+|--------|-------------|---------------------------------|-------------------------------|---------------|-----------------|
+|   1    |    47363    | dr_60_septentrional_western.npy | Falla Septentrional (oeste)   |      6        |       9         |
+|   2    |    47365    | dr_65_septentrional_central.npy | Falla Septentrional (central) |      6.5      |       9         |
+|   3    |    47367    | dr_75_septentrional_central.npy | Falla Septentrional (central) |      7.5      |       9         |
+|   4    |    47369    | dr_75_septentrional_western.npy | Falla Septentrional (oeste)   |      7.5      |       9         |
+|   5    |    47371    | iscgem891713_DR1953.npy         | Terremoto de 1953             |      6.6      |       16.7      |
+|   6    |    47373    | iscgem898498.npy                | Terremoto de 1946             |      7.5      |       15        |
+|   7    |    47375    | usp000c89d_DR2003.npy           | Terremoto de 2003             |      6.4      |       10        |
+|   8    |    47377    | usp000h60h.npy                  | Terremoto de Haiti de 2010    |      7        |       13        |

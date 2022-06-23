@@ -67,9 +67,20 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 
 
 ## 🌟 Colaboradores 
+<div align='right'>
 
-Nos gustaría agradecer a las personas que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad.
-Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
+  <img src="https://www.cali.gov.co/info/principal/media/bloque210342.png" alt="Alcaldía de Cali" width="100"/>
+
+  <img src="https://www.sgc.gov.co/static/media/Logo_SGC.8391f3a4.svg" alt="SGC" width="200"/>
+
+  <img src="https://www.eafit.edu.co/SiteCollectionImages/logo.png" alt="EAFIT" width="200"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+</div>
+
+Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
 
 En particular, queremos agradecer a la Alcaldía de Santiago de Cali por su aporte, a través de las oficinas de Planeación Municipal y de la Secretaría de Gestión del Riesgo de Emergencias y Desastres.
 
