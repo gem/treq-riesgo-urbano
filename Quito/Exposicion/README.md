@@ -2,14 +2,13 @@
 
 El modelo de exposición (también conocido como inventario de edificios y habitantes) para el Distrito Metropolitano de Quito puede utilizarse junto con modelos de múltiples amenazas naturales y tecnológicas, y modelos de vulnerabilidad física y social, en el análisis de riesgo catastrófico.
 
-Para el DMQ se recopilaron más de 10 conjuntos de datos diferentes, incluido el conjunto de datos de referencia del uso del suelo de la ciudad que presenta el propósito económico del suelo por lote. Se recopilaron conjuntos de datos adicionales que contenían el año de construcción, el material de construcción predominante y el número promedio de pisos por cuadra de la ciudad. De estas fuentes se obtuvo toda la información requerida para modelar la exposición. 
- 
+Se utilizaron un total de 29 conjuntos de datos para definir el modelo de exposición. Estos incluyen el censo oficial de población y hogares (proyectado a 2020), la base de datos catastral de la ciudad (2020), el conjunto de datos de uso de suelo (2016) y el desarrollo histórico del límite urbano de la ciudad desde 1760 hasta 2015. Adicionalmente, la Pontificia Universidad Católica del Ecuador (PUCE), contribuyó con el estudio y levantamiento de más de 2.000 edificaciones en el centro histórico de la ciudad. Como aporte fundamental para el estudio de la exposición en la ciudad, esta información hace parte del modelo de exposición a nivel de edificación, además de ser utilizado para evaluar la calidad de las bases de datos con la información constructiva de la ciudad. 
 
 ## Variables básicas para la clasificación de edificaciones
 Se identificaron múltiples variables para la clasificación de las edificaciones. Para cada estructura, analizamos variables como el material predominante de la pared, el tipo de piso, el tipo de techo, los acabados, el año de construcción, la altura, el propósito económico, el uso principal de la estructura, el área de construcción y el estrato socioeconómico. La siguiente figura presenta el uso del suelo en el DMQ.
 
 <p >
-  <img src="../Mapas/exposicion/Quito_Uso_Suelo.png" alt="Modelo de exposición - Uso del suelo" width="350">
+  <img src="../Mapas/exposicion/Quito_Uso_Suelo.png" alt="Modelo de exposición - Uso del suelo" width="500">
 </p>
 
 ## Información en las bases de datos de exposición
@@ -25,9 +24,9 @@ Para la clasificación de las estructuras se utiliza la taxonomía de GEM, la cu
 
 Las siguientes figuras presentan el modelo de exposición para el DMQ y un acercamiento al modelo en el centro histórico.
 <p >
-  <img src="../Mapas/exposicion/Quito_Exp_1.png" alt="Modelo de exposición DMQ" width="350">
+  <img src="../Mapas/exposicion/Quito_Exp_1.png" alt="Modelo de exposición DMQ" width="500">
 
-  <img src="../Mapas/exposicion/Quito_Exp_3.png" alt="Modelo de exposición Centro Histórico" width="350">
+  <img src="../Mapas/exposicion/Quito_Exp_3.png" alt="Modelo de exposición Centro Histórico" width="500">
 
 </p>
 
