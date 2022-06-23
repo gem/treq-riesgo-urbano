@@ -50,7 +50,6 @@ Los siguientes entregables (Deliverables) del proyecto TREQ son relevantes para 
 | | Evaluación de la amenaza sísmica |
 | :----: | ---- |
 | D2.2.1 | Description of the compiled datasets and the selected seismic hazard models. <br/>_[Descripción de las bases de datos recopiladas y los modelos de amenaza sísmica seleccionados]_|
-| D2.2.2  | National earthquake hazard model for the Dominican Republic. <br/>_[Modelo nacional de amenaza sísmica para la República Dominicana]_ |
 | D2.2.3  | Seismic hazard results (rock and soil conditions). <br/>_[Resultados de amenaza sísmica (condiciones en roca y en suelo)]_ |
 | D2.2.4  | Seismic hazard analysis at the urban scale. <br/>_[Análisis de la amenaza sísmica a escala urbana]_ |
 

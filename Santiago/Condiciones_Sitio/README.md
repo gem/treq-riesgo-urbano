@@ -14,7 +14,7 @@ Los archivos de esta carpeta incluyen diferentes condiciones de sitio para la ci
 [Roullé et al. 2011](https://www.sgn.gob.do/images/sismicidadT/Amenaza_Sism_Local_stgo.pdf): Microzonificación sísmica de Santiago de los Caballeros - República Dominicana Amenaza sísmica local. Informe final, BRGM/RC-59685-FR. Febrero 2011.
 
 <p align="left">
-  <img src="../Mapas/Santiago_Microzonificacion.png" alt="Santiago_Microzonificacion" width="500">
+  <img src="../Mapas/Santiago_Microzonificacion.png" alt="Santiago_Microzonificacion" width="800">
 </p>
 
 ## Funciones de amplificación
