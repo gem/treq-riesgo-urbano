@@ -1,8 +1,8 @@
-# 🗺️ GIS - SISTEMA DE INFORMACIÓN GEOGRÁFICA
+# 🗺️ SIG - SISTEMA DE INFORMACIÓN GEOGRÁFICA
 
 Esta carpeta referencia las capas utilizadas para generar los mapas de los resultados.
 
-El archivo `mapas_Cali.qgz` puede abrirse con el software QGIS. El proyecto de QGIS contine capas de información generada durante el proyecto, incluyendo: exposición, rupturas de escenarios sísmicos y resultados de riesgo.
+El archivo `mapas_Santiago.qgz` puede abrirse con el software QGIS. El proyecto de QGIS contine capas de información generada durante el proyecto, incluyendo: exposición, rupturas de escenarios sísmicos y resultados de riesgo.
 
 ## Metadatos
 Las capas geográficas contienen los siguientes metadatos:
