@@ -22,11 +22,11 @@ El modelo de exposición hace referencia a:
 
 Para la clasificación de las estructuras se utiliza la taxonomía de GEM, la cual cuenta con un [glosario en línea](https://taxonomy.openquake.org/) el cual facilita el entendimiento de los códigos utilizados para la clasificación de la exposición y vulnerabilidad.
 
-Las siguientes figuras presentan el modelo de exposición para el DMQ y un acercamiento al modelo en el centro histórico.
+Las siguientes figuras presentan el modelo de exposición para el DMQ y un acercamiento al modelo en el centro histórico, el cuál fue icluido en el modelo de exposición con información levantada para más de 2,000 edificios por el profesor Carlos Celi y colaboradores de la PUCE:
 <p >
-  <img src="../Mapas/exposicion/Quito_Exp_1.png" alt="Modelo de exposición DMQ" width="500">
+  <img src="../Mapas/exposicion/Quito_Exp_1.png" alt="Modelo de exposición DMQ" width="600">
 
-  <img src="../Mapas/exposicion/Quito_Exp_3.png" alt="Modelo de exposición Centro Histórico" width="500">
+  <img src="../Mapas/exposicion/Quito_Exp_3.png" alt="Modelo de exposición Centro Histórico" width="600">
 
 </p>
 
