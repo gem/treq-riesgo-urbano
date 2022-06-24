@@ -27,9 +27,9 @@
 
 </a>
 
-<a href='Licencia.txt'>
+<a href='https://github.com/gem/treq-riesgo-urbano#licencia'>
 
-<img src='https://img.shields.io/badge/LICENSE-orange?style=for-the-badge'>
+<img src='https://img.shields.io/badge/LICENCIA-orange?style=for-the-badge'>
 
 </a>
 

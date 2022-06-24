@@ -1,9 +1,15 @@
 # RESULTADOS DE RIESGO
 
-
 Los archivos de salida de los diferentes cálculos de OpenQuake y sus correspondientes mapas están disponibles en las siguientes carpetas:
 
-Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad están disponibles en [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
+Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad están disponibles en el [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
+
+
+## Cálculos probabilísticos (Event_Based)
+
+| Carpeta_ref | Descripción                                                              |
+|-------------|--------------------------------------------------------------------------|
+|    46690    | Cali EB-damage (soil=AFs_TREQ, it=1, ses=500, branches=100); SGC2018+Cali-Patia fault; Exposure=beta0.3 (ABA)|
 
 ### Perfil de mitigación del riesgo sísmico
 <p align="center">
@@ -11,14 +17,8 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 </p>
 
 
-
-## Cálculos probabilísticos (Event_Based)
-| Carpeta_ref | Descripción |
-| ----------- | ----------- |
-|    46690    | Cali EB-damage (soil=AFs_TREQ, it=1, ses=500, branches=100); SGC2018+Cali-Patia fault; Exposure=beta0.3 (ABA)|
-
-
 ## Escenarios sísmicos (Scenarios)
+
 | Evento | Carpeta_ref | Archivo                                 | Descripción                                                 | Magnitud (Mw) | Profundiad (km) |
 |--------|-------------|-----------------------------------------|-------------------------------------------------------------|---------------|-----------------|
 |   1    |    47078    | big_north_nazca_cali_subduction.npy     | Evento Mw 8.8 en el pacífico - Plaza de Nazca               |      8.8      |        22       |
@@ -35,4 +35,8 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 |   12   |    47119    | usp00091q3.npy                          | Terremoto de 1999                                           |      6.1      |        52       |
 |   13   |    47113    | usp000d8gx.npy                          | Terremoto de 2004                                           |      7.2      |        15       |
 
+### Perfiles de escenarios de riesgo sísmico
+<p align="center">
+  <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">
+</p>
 

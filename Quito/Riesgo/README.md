@@ -1,14 +1,8 @@
 # RESULTADOS DE RIESGO
 
-
 Los archivos de salida de los diferentes cálculos de OpenQuake y sus correspondientes mapas están disponibles en las siguientes carpetas:
 
-Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad están disponibles en [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
-
-### Perfil de mitigación del riesgo sísmico
-<p align="center">
-  <img src="./perfil_mitigacion.png" alt="Perfiles de escenarios de riesgo" width="700">
-</p>
+El perfiles de mitigación, los de escenarios sísmicos y de escenarios volcánicos generados para la ciudad están disponibles en el [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
 
 
 ## Cálculos probabilísticos (Event_Based)
@@ -17,6 +11,11 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 |-------------|--------------------------------------------------------------------------|
 |     45297   | Quito EB-damage (soil=AFs, it=1, ses=10000, branches=all), Exposure=br1  |
 |     45298   | Quito EB-damage (soil=Vs30, it=1, ses=10000, branches=all), Exposure=br1 |
+
+### Perfil de mitigación del riesgo sísmico
+<p align="center">
+  <img src="./perfil_mitigacion.png" alt="Perfil mitigación" width="700">
+</p>
 
 
 ## Escenarios sísmicos (Scenarios)
@@ -31,6 +30,11 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 |   6    |    47125    | official19060131153610_30.npy | Nazca, Terremoto de 1906 Subducción de la Placa de Nazca |     8.8       |      20         |
 |   7    |    47137    | us20005j32.npy                | Manabí, Terremoto de Muisne de 2016                      |     7.8       |      20         |
 
+### Perfiles de escenarios de riesgo sísmico
+<p align="center">
+  <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">
+</p>
+
 
 ## Escenarios volcánicos (Volcanic)
 
@@ -41,3 +45,9 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 |     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Ash fall         |
 |     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Piroclastic flow |
 |     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Lahares          |
+
+### Perfiles de escenarios de riesgo volcánico
+<p align="center">
+  <img src="./perfiles_volcanes.gif" alt="Perfiles de escenarios de riesgo volcánico" width="700">
+</p>
+

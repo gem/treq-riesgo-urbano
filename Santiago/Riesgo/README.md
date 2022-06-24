@@ -1,21 +1,20 @@
 # RESULTADOS DE RIESGO
 
-
 Los archivos de salida de los diferentes cálculos de OpenQuake y sus correspondientes mapas están disponibles en las siguientes carpetas:
 
-Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad están disponibles en [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
+Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad están disponibles en el [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
+
+
+## Cálculos probabilísticos (Event_Based)
+
+| Carpeta_ref | Descripción |
+| ----------- | ----------- |
+|    47360    |  Santiago EB-damage (soil=AFs, it=1, ses=1000, branches=100); Exposure=br1|
 
 ### Perfil de mitigación del riesgo sísmico
 <p align="center">
   <img src="./perfil_mitigacion.png" alt="Perfiles de escenarios de riesgo" width="700">
 </p>
-
-
-
-## Cálculos probabilísticos (Event_Based)
-| Carpeta_ref | Descripción |
-| ----------- | ----------- |
-|    47360    |  Santiago EB-damage (soil=AFs, it=1, ses=1000, branches=100); Exposure=br1|
 
 
 ## Escenarios sísmicos (Scenarios)
@@ -30,3 +29,8 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 |   6    |    47373    | iscgem898498.npy                | Terremoto de 1946             |      7.5      |       15        |
 |   7    |    47375    | usp000c89d_DR2003.npy           | Terremoto de 2003             |      6.4      |       10        |
 |   8    |    47377    | usp000h60h.npy                  | Terremoto de Haiti de 2010    |      7        |       13        |
+
+### Perfiles de escenarios de riesgo sísmico
+<p align="center">
+  <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">
+</p>
