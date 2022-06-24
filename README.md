@@ -37,10 +37,15 @@
 
 # Evaluación del riesgo sísmico a nivel urbano
 
-Para tres ciudades de América Latina y el Caribe (LAC) se desarrolló, en estrecha colaboración con las partes interesadas de cada ciudad y país, la evaluación detallada de la amenaza y el riesgo sísmico a nivel urbano, con el fin de ser utilizada directamente para diseñar estrategias de reducción del riesgo de desastres.
+Para tres ciudades de América Latina y el Caribe (LAC) se desarrolló, en estrecha colaboración con las partes interesadas de cada ciudad y país, la evaluación detallada de la amenaza y el riesgo sísmico a nivel urbano. El objetivo fue desarrollar material que pueda ser utilizado directamente para diseñar planes y estrategias de reducción, mitigación y manejo del riesgo de desastres.
+
 Los tres centros urbanos seleccionados fueron: Quito (Ecuador), Cali (Colombia) y Santiago de los Caballeros (República Dominicana).
 
-El proyecto TREQ, se realizó entre septiembre de 2020 y junio de 2021. Esta fue una iniciativa financiada por la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) y la oficina para la asistencia humanitaria (BHA) y coordinada por la Fundación GEM.
+<p align="center">
+  <img src="https://static.wixstatic.com/media/1dcea4_98941166bfd645258d595a759793229e~mv2.png/v1/fill/w_824,h_460,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/1dcea4_98941166bfd645258d595a759793229e~mv2.png" alt="Ciudades TREQ" width="800">
+</p>
+
+El proyecto TREQ, se realizó entre septiembre de 2019 y junio de 2022. Esta fue una iniciativa coordinada por la [Fundación GEM](https://www.globalquakemodel.org/) y financiada por la [Agencia de los Estados Unidos para el Desarrollo Internacional (USAID)](https://www.usaid.gov/) y su oficina para la asistencia humanitaria (BHA). Múltiples instituciones nacionales y locales hicieron parte en el desarrollo de las actividades, como se indica en las secciones de las correspondientes ciudades.
 
 
 Página web del proyecto: https://www.globalquakemodel.org/proj/treq-es
