@@ -36,9 +36,8 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 
 | Carpeta_ref | Descripción                                      |
 |-------------|--------------------------------------------------|
-|     78      | Eruption 1877 - Lahares                          |
-|     80      | Eruption siglo X - Lahares                       |
-|     90      | Eruption de 5.440 a AP - (N4) - Ash fall         |
-|     90      | Eruption de 5.440 a AP - (N4) - Piroclastic flow |
-|     90      | Eruption de 5.440 a AP - (N4) - Lahares          |
-|     90      | Eruption de 5.440 a AP - (N4) - Lahares          |
+|     78      | Cotopaxí Eruption 1877 - Lahares                          |
+|     80      | Guagua Pichincha Eruption siglo X - Lahares                       |
+|     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Ash fall         |
+|     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Piroclastic flow |
+|     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Lahares          |

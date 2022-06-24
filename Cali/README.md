@@ -6,14 +6,14 @@
 
 En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico en la ciudad.
 
-- **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos
-- **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake
-- **Exposicion:** Archivos con el modelo de exposición para la ciudad y los esquemas de clasificación que relacionan las tipologías constructivas y su vulnerabilidad (taxonomy_mapping) en formato compatible con OpenQuake.
-- **GIS:** Capas georeferenciadas con los mapas de la ciudad con diferentes niveles administrativos
-- **Mapas:** Mapas e imágenes con los modelos o resultados para la ciudad
-- **OpenQuake:** Archivos de configuración para realizar los escenarios de riesgo o los cálculos probabilísticos
-- **Riesgo:** Resultados del análisis de riesgo usando OpenQuake y perfiles para la ciudad
-- **Rupturas_Sismicas:** Rupturas de los escenarios de riesgo sísmico seleccionados en formato compatible con OpenQuake
+- **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos.
+- **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake.
+- **Exposicion:** Archivos con el modelo de exposición para la ciudad y los esquemas de clasificación que relacionan las tipologías constructivas y su vulnerabilidad (taxonomy_mapping) en formato compatible con OpenQuake..
+- **Mapas:** Mapas e imágenes con los modelos o resultados para la ciudad.
+- **OpenQuake:** Archivos de configuración para realizar los escenarios de riesgo o los cálculos probabilísticos.
+- **Riesgo:** Resultados del análisis de riesgo usando OpenQuake y perfiles para la ciudad.
+- **Rupturas_Sismicas:** Rupturas de los escenarios de riesgo sísmico seleccionados en formato compatible con OpenQuake.
+- **SIG:** Capas georeferenciadas con los mapas de la ciudad con diferentes niveles administrativos.
 
 
 ## Vistazo de los resultados de riesgo sísmico
