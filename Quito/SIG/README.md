@@ -1,4 +1,4 @@
-# 🗺️ GIS - SISTEMA DE INFORMACIÓN GEOGRÁFICA
+# 🗺️ SIG - SISTEMA DE INFORMACIÓN GEOGRÁFICA
 
 Esta carpeta referencia las capas utilizadas para generar los mapas de los resultados.
 
