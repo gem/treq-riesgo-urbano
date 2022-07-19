@@ -10,7 +10,7 @@ Los archivos de esta carpeta incluyen diferentes condiciones de sitio para la ci
 - **sites_liquefaction.csv :** valores específicos para el análisis de liquefacción inducida por terremotos en la ciudad
 - **soil_amplification_model_20210825_sigaf03.csv :** funciones de amplificación (AFs) para cada zona homogénea considerada en el estudio de la microzonificación sísmica de referencia
 
-```Vs30: Velocidad de la onda de corte medida a 30km de profundidad```
+```Vs30: Velocidad de la onda de corte medida a 30m de profundidad```
 
 
 ## Microzonificación sísmica de referencia

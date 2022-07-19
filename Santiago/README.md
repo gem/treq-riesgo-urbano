@@ -67,9 +67,9 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 ## 🌟 Colaboradores 
 <div align='right'>
 
-  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="200"/>
+  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="250"/>
 
-  <img src="https://www.sgn.gob.do/images/Logos/favicon.png" alt="SGN" width="200"/>
+  <img src="./sgn.png" alt="SGN" width="150"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
 
@@ -89,9 +89,9 @@ En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros 
 | Edwin García | Servicio Geológico Nacional (SGN) |
 | Freddy Duran | Servicio Geológico Nacional (SGN) |
 | Galvy Núñez | ONESVIE |
-| Kerman | Oficina de Ordenamiento Territorial de Santiago |
+| Kerman Rodríguez | Oficina de Ordenamiento Territorial de Santiago |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
-| Leonardo Reyes | Madera ONESVIE |
+| Leonardo Reyes Madera | ONESVIE |
 | Marco Antonio Gomez | Oficina de Ordenamiento Territorial de Santiago |
 | Marco Pagani | Fundación GEM |
 | María Betania Roque de Medina | Antiguo miembro del Servicio Geológico Nacional (SGN) |
