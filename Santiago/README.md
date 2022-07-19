@@ -67,9 +67,9 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 ## 🌟 Colaboradores 
 <div align='right'>
 
-  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="200"/>
+  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="250"/>
 
-  <img src="https://www.sgn.gob.do/images/Logos/favicon.png" alt="SGN" width="200"/>
+  <img src="./sgn.png" alt="SGN" width="150"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
 
