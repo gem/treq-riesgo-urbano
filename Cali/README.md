@@ -73,7 +73,7 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 
   <img src="https://www.sgc.gov.co/static/media/Logo_SGC.8391f3a4.svg" alt="SGC" width="200"/>
 
-  <img src="https://www.eafit.edu.co/SiteCollectionImages/logo.png" alt="EAFIT" width="200"/>
+  <img src="https://conexa.eafit.edu.co/wp-content/uploads/2016/03/logoEafit.png" alt="EAFIT" width="200"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
 
