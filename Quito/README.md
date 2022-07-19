@@ -69,7 +69,7 @@ Los siguientes entregables (Deliverables) del proyecto TREQ son relevantes para 
 
   <img src="https://cacmq.gob.ec/sistemas/operativos/images/logos/sgsg.png" alt="Quito, Secretaría de seguridad" width="150"/>
 
-  <img src="https://seeklogo.com/images/E/epmaps-agua-de-quito-logo-876095CBC6-seeklogo.com.png" alt="EPMAPS" width="150"/>
+  <img src="https://aulavirtual.aguaquito.gob.ec/pluginfile.php/1/theme_moove/logo/1656697746/unnamed.jpg" alt="EPMAPS" width="150"/>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5b8jCxkKvXjdyFUe5ie7rNcu9HythoOLtQ&usqp=CAU" alt="PUCE" width="150"/>
   
