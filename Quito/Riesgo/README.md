@@ -1,9 +1,13 @@
 # RESULTADOS DE RIESGO
 
 Los archivos de salida de los diferentes cálculos de OpenQuake y sus correspondientes mapas están disponibles en las siguientes carpetas:
+* Event_Based
+* Scenarios
+* Volanic
 
 El perfiles de mitigación, los de escenarios sísmicos y de escenarios volcánicos generados para la ciudad están disponibles en el [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
 
+Todos los resultados de riesgo que se presentan en este repositorio corresponden a cálculos usando las funciones de amplificación desarrolladas para la ciudad dentro de las actividades del proyecto TREQ. Sin embargo, en la Carpeta_ref 45298 se proporcionan los resultados utilizando valores aproximados de Vs30 como referencia.
 
 ## Cálculos probabilísticos (Event_Based)
 

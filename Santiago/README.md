@@ -89,9 +89,9 @@ En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros 
 | Edwin García | Servicio Geológico Nacional (SGN) |
 | Freddy Duran | Servicio Geológico Nacional (SGN) |
 | Galvy Núñez | ONESVIE |
-| Kerman | Oficina de Ordenamiento Territorial de Santiago |
+| Kerman Rodríguez | Oficina de Ordenamiento Territorial de Santiago |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
-| Leonardo Reyes | Madera ONESVIE |
+| Leonardo Reyes Madera | ONESVIE |
 | Marco Antonio Gomez | Oficina de Ordenamiento Territorial de Santiago |
 | Marco Pagani | Fundación GEM |
 | María Betania Roque de Medina | Antiguo miembro del Servicio Geológico Nacional (SGN) |
