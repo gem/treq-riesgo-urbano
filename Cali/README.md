@@ -96,6 +96,7 @@ En particular, queremos agradecer a la Alcaldía de Santiago de Cali por su apor
 | Ana Beatriz Acevedo | Universidad EAFIT |
 | Andrés Prieto | Oficinas de Planeación Municipal |
 | Catalina Yepes Estrada | Fundación GEM |
+| Daniela González | Universidad EAFIT |
 | Fernando Javier Díaz | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
 | Julian Gomez Arbelaez| Secretaría de Gestión del Riesgo de Emergencias y Desastres |
 | Juliana Arenas Guzman| Universidad EAFIT |
