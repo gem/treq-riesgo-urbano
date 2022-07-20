@@ -55,6 +55,9 @@ Todos los resultados de riesgo que se presentan en este repositorio corresponden
 |     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Lahares          |
 
 ### Perfiles de escenarios de riesgo volcánico
+
+Estos perfiles de riesgo volcánico son preliminares y consideran una envolvente de todos los peligros volcánicos asociados con cada escenario. Por ende muestran el umbral máximo del riesgo sin considerar las incertidumbres asociadas a dichos peligros en su forma actual.
+
 <p align="center">
   <img src="./perfiles_volcanes.gif" alt="Perfiles de escenarios de riesgo volcánico" width="700">
 </p>
