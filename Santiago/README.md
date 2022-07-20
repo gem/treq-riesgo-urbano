@@ -18,7 +18,7 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 
 ## Vistazo de los resultados de riesgo sísmico
 
-El reporte [Evaluación del riesgo sísmico para Santiago de los Caballeros](./TREQ_Deliverable_D262_Riesgo_Sismico_Santiago.pdf) presenta los detalles de los modelos utilizados y resultados obtenidos.
+Para mayores detalles del modelo de riesgo sísmico y sus componentes dale un vistazo al video [Evaluación de Riesgo Sísmico para Santiago de los Caballeros: Resumen de Resultados](https://youtu.be/EgGev6_ZGF4). Para mayor información sobre como utilizar este repositorio dale un vistazo a [este video](https://www.youtube.com/watch?v=C6eaF0q4I5o).
 
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
