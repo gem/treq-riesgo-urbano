@@ -72,14 +72,17 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 <div align='right'>
 
   <img src="https://www.cali.gov.co/info/principal/media/bloque210342.png" alt="Alcaldía de Cali" width="100"/>
-
-  <img src="https://www.sgc.gov.co/static/media/Logo_SGC.8391f3a4.svg" alt="SGC" width="200"/>
-
-  <img src="https://conexa.eafit.edu.co/wp-content/uploads/2016/03/logoEafit.png" alt="EAFIT" width="200"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
-
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/2560px-USGS_logo_green.svg.png" alt="USGS" width="150"/>
+
+  <img src="https://www.sgc.gov.co/static/media/Logo_SGC.8391f3a4.svg" alt="SGC" width="150"/>
+
+  <img src="https://conexa.eafit.edu.co/wp-content/uploads/2016/03/logoEafit.png" alt="EAFIT" width="150"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="150"/>
+
 </div>
 
 Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
