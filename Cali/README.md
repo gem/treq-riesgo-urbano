@@ -18,6 +18,8 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 
 ## Vistazo de los resultados de riesgo sísmico
 
+Para mayores detalles del modelo de riesgo sísmico y sus componentes dale un vistazo al video [Evaluación de Riesgo Sísmico para la Ciudad de Santiago de Cali: Resumen de Resultados](https://youtu.be/mVhQ0ZQchLY). Para mayor información sobre como utilizar este repositorio dale un vistazo a [este video](https://www.youtube.com/watch?v=foLn4Jc76RY).
+
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
   <img src="./Riesgo/perfil_mitigacion.png" alt="Perfiles de escenarios de riesgo" width="700">
