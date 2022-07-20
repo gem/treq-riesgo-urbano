@@ -34,7 +34,7 @@ Todos los resultados de riesgo que se presentan en este repositorio corresponden
 |   8    |    47377    | usp000h60h.npy                  | Terremoto de Haiti de 2010    |      7        |       13        |
 
 <p align="center">
-  <img src="./tabla_santiago.jpg" alt="Tabla de resultados de escenarios sísmicos" width="1050">
+  <img src="./tabla_santiago.jpg" alt="Tabla de resultados de escenarios sísmicos" width="750">
 </p>
 
 ### Perfiles de escenarios de riesgo sísmico
