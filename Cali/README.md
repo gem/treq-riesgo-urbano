@@ -103,13 +103,13 @@ En particular, queremos agradecer a la Alcaldía de Santiago de Cali por su apor
 | Marco Pagani | Fundación GEM |
 | Miguel Genaro Mora | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
 | Monica Arcila Rivera | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
+| Nathalie García | Secretaría de Gestión del Riesgo de Emergencias y Desastres |
 | Natalia Gomez Mazuera | Ingeneira Civil, Cali |
 | Robert Chase | United States Geological Survey (USGS) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |
 | Richard Styron | Fundación GEM |
 | Shreyasvi Chandrasekhar | Fundación GEM |
 | Srahyrlandy Rocio Diaz Sanchez | Secretaría de Gestión del Riesgo de Emergencias y Desastres |
-
 
 # Licencia
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
