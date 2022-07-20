@@ -34,6 +34,10 @@ Todos los resultados de riesgo que se presentan en este repositorio corresponden
 |   6    |    47125    | official19060131153610_30.npy | Nazca, Terremoto de 1906 Subducción de la Placa de Nazca |     8.8       |      20         |
 |   7    |    47137    | us20005j32.npy                | Manabí, Terremoto de Muisne de 2016                      |     7.8       |      20         |
 
+<p align="center">
+  <img src="./tabla_quito.jpg" alt="Tabla de resultados de escenarios sísmicos" width="1050">
+</p>
+
 ### Perfiles de escenarios de riesgo sísmico
 <p align="center">
   <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">

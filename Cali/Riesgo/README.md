@@ -40,7 +40,7 @@ Todos los resultados de riesgo que se presentan en este repositorio corresponden
 |   13   |    47113    | usp000d8gx.npy                          | Terremoto de 2004                                           |      7.2      |        15       |
 
 <p align="center">
-  <img src="./tabla_cali.jpg" alt="Perfiles de escenarios de riesgo sísmico" width="700">
+  <img src="./tabla_cali.jpg" alt="Tabla de resultados de escenarios sísmicos" width="1050">
 </p>
 
 ### Perfiles de escenarios de riesgo sísmico
