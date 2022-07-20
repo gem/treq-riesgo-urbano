@@ -18,7 +18,7 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 
 ## Vistazo de los resultados de riesgo sísmico
 
-El reporte [Evaluación del riesgo sísmico para el DMQ](./TREQ_Deliverable_D262_Riesgo_Sismico_Quito.pdf) presenta los detalles de los modelos utilizados y resultados obtenidos.
+Para mayores detalles del modelo de riesgo sísmico y sus componentes dale un vistazo al video [Evaluación de Riesgo Sísmico para el Distrito Metropolitano de Quito: Resumen de Resultados](https://youtu.be/Bvj3VPFhQuc). Para mayor información sobre como utilizar este repositorio dale un vistazo a [este video](https://youtu.be/FckyM5mZP10).
 
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
