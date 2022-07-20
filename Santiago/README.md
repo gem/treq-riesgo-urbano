@@ -90,6 +90,7 @@ En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros 
 | Freddy Duran | Servicio Geológico Nacional (SGN) |
 | Galvy Núñez | ONESVIE |
 | Kerman Rodríguez | Oficina de Ordenamiento Territorial de Santiago |
+| Kishor Jaiswal | United States Geological Survey (USGS) |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
 | Leonardo Reyes Madera | ONESVIE |
 | Marco Antonio Gomez | Oficina de Ordenamiento Territorial de Santiago |
@@ -97,6 +98,7 @@ En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros 
 | María Betania Roque de Medina | Antiguo miembro del Servicio Geológico Nacional (SGN) |
 | Pedro Iván Marquez | ONESVIE |
 | Ramon Delanoy | Universidad Autónoma de Santo Domingo (UASD) |
+| Robert Chase | United States Geological Survey (USGS) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |
 | Richard Styron | Fundación GEM |
 | Santiago Muñoz | Antiguo miembro del Servicio Geológico Nacional (SGN) |

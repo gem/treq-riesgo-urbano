@@ -93,7 +93,7 @@ En particular, queremos agradecer a la Alcaldía de el DMQ por su aporte, a trav
 | Irwin Álvarez | Dirección Metropolitana de Gestión del Riesgo (DMGR) |
 | Jorge Ordóñez | Dirección Metropolitana de Gestión del Riesgo (DMGR) |
 | Jose Marrero | Oficina de la Alcaldía |
-| Kishor Jaiwal | United States Geological Survey (USGS) |
+| Kishor Jaiswal | United States Geological Survey (USGS) |
 | Marco Pagani | Fundación GEM |
 | Robert Chase | United States Geological Survey (USGS) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |

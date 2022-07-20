@@ -98,6 +98,7 @@ En particular, queremos agradecer a la Alcaldía de Santiago de Cali por su apor
 | Juliana Arenas Guzman| Universidad EAFIT |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
 | Hector Jose Perez Barrera  | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
+| Kishor Jaiswal | United States Geological Survey (USGS) |
 | Lana Todorović | Fundación GEM |
 | Marco Pagani | Fundación GEM |
 | Miguel Genaro Mora | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
