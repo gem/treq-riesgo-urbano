@@ -66,16 +66,20 @@ Los siguientes entregables (Deliverables) del proyecto TREQ son relevantes para 
 <div align='right'>
 
   <img src="https://metrodequito.gob.ec/wp-content/uploads/2018/01/noticia-logo-nuevo.jpg" alt="Alcaldía de Quito" width="100"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="150"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/2560px-USGS_logo_green.svg.png" alt="USGS" width="120"/>
 
-  <img src="https://cacmq.gob.ec/sistemas/operativos/images/logos/sgsg.png" alt="Quito, Secretaría de seguridad" width="150"/>
+  <img src="https://cacmq.gob.ec/sistemas/operativos/images/logos/sgsg.png" alt="Quito, Secretaría de seguridad" width="120"/>
 
-  <img src="https://aulavirtual.aguaquito.gob.ec/pluginfile.php/1/theme_moove/logo/1656697746/unnamed.jpg" alt="EPMAPS" width="150"/>
+  <img src="https://aulavirtual.aguaquito.gob.ec/pluginfile.php/1/theme_moove/logo/1656697746/unnamed.jpg" alt="EPMAPS" width="120"/>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5b8jCxkKvXjdyFUe5ie7rNcu9HythoOLtQ&usqp=CAU" alt="PUCE" width="150"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="120"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="150"/>
+  
 </div>
 
 Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
