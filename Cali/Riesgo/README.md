@@ -39,6 +39,10 @@ Todos los resultados de riesgo que se presentan en este repositorio corresponden
 |   12   |    47119    | usp00091q3.npy                          | Terremoto de 1999                                           |      6.1      |        52       |
 |   13   |    47113    | usp000d8gx.npy                          | Terremoto de 2004                                           |      7.2      |        15       |
 
+<p align="center">
+  <img src="./tabla_cali.jpg" alt="Perfiles de escenarios de riesgo sísmico" width="700">
+</p>
+
 ### Perfiles de escenarios de riesgo sísmico
 <p align="center">
   <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">
