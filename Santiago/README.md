@@ -68,12 +68,16 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 <div align='right'>
 
   <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="250"/>
+  
+  <img src="./sgn.png" alt="SGN" width="110"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="230"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/2560px-USGS_logo_green.svg.png" alt="USAID" width="150"/>
 
-  <img src="./sgn.png" alt="SGN" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="150"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+  
 </div>
 
 Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
