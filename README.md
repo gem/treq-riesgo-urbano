@@ -45,7 +45,7 @@ Los tres centros urbanos seleccionados fueron: Quito (Ecuador), Cali (Colombia) 
 El proyecto [TREQ](https://www.globalquakemodel.org/proj/treq-es), se realizó entre septiembre de 2019 y junio de 2022. Esta fue una iniciativa coordinada por la [Fundación GEM](https://www.globalquakemodel.org/) y financiada por la [Agencia de los Estados Unidos para el Desarrollo Internacional (USAID)](https://www.usaid.gov/) y su oficina para la asistencia humanitaria (BHA). Múltiples instituciones nacionales y locales hicieron parte en el desarrollo de las actividades, como se indica en las secciones de las correspondientes ciudades.
 
 
-En la página web, www.globalquakemodel.org/proj/treq-es, se puede encontrar el reporte con el [Resumen ejecutivo](https://www.globalquakemodel.org/proj/treq?tab=publications) y toda la documentación generada en las diferentes componentes del proyecto.
+En la página web, www.globalquakemodel.org/proj/treq-es, se puede encontrar [las publicaciones](https://www.globalquakemodel.org/proj/treq?tab=publications) y toda la documentación generada en cada componente del proyecto.
 
 
 # Licencia
