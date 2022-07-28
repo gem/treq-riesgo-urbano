@@ -4,7 +4,7 @@
 
 ## 📂 En este repositorio  
 
-En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico en la ciudad.
+En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico de la ciudad. En el reporte [Evaluación de Riesgo para Santiago de los Caballeros](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/TREQ%20deliverables/reports/TREQ_D263_Riesgo_Sismico_Santiago_v1.00.pdf) [DOI: 10.13140/RG.2.2.30124.95363/1](https://www.researchgate.net/publication/362126057_Proyecto_TREQ_-_Reporte_D263_Evaluacion_de_Riesgo_Sismico_para_Santiago_de_los_Caballeros) puede encontrar la metodología y suposiciones del análisis de riesgo.
 
 - **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos.
 - **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake.

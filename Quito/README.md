@@ -4,7 +4,8 @@
 
 ## 📂 En este repositorio  
 
-En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico en la ciudad.
+En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico de la ciudad. En el reporte [Evaluación de Riesgo para el Distrito Metropolinato de Quito](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/TREQ%20deliverables/reports/TREQ_D261_Riesgo_Sismico_Quito_v1.00.pdf) [DOI: 10.13140/RG.2.2.16762.16322
+](https://www.researchgate.net/publication/362252440_Proyecto_TREQ_-_Reporte_D261_Evaluacion_de_Riesgo_Sismico_para_el_Distrito_Metropolitano_de_Quito) puede encontrar la metodología y suposiciones del análisis de riesgo.
 
 - **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos.
 - **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake.
