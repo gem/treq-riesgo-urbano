@@ -7,30 +7,27 @@
 
   # ✨ PROYECTO TREQ <br/> (Comunicación y Formación en la Evaluación de Riesgos por Terremotos)
 
-
+<p align="center">
+<a href='https://globalquakemodel.org/proj/treq-es'>
+<img src='https://img.shields.io/badge/www.globalquakemodel.org/proj/treq-grey?style=for-the-badge'>
+</a>
+</p>
+  
 <a href='Quito'>
-
 <img src='https://img.shields.io/badge/QUITO-blue?style=for-the-badge'>
-
 </a>
 
 <a href='Cali'>
-
 <img src='https://img.shields.io/badge/CALI-green?style=for-the-badge'>
+</a>
 
-</a>
-</a>
 
 <a href='Santiago'>
-
 <img src='https://img.shields.io/badge/SANTIAGO_DLC-yellow?style=for-the-badge'>
-
 </a>
 
 <a href='https://github.com/gem/treq-riesgo-urbano#licencia'>
-
 <img src='https://img.shields.io/badge/LICENCIA-orange?style=for-the-badge'>
-
 </a>
 
 </div>
@@ -45,10 +42,10 @@ Los tres centros urbanos seleccionados fueron: Quito (Ecuador), Cali (Colombia) 
   <img src="https://static.wixstatic.com/media/1dcea4_98941166bfd645258d595a759793229e~mv2.png/v1/fill/w_824,h_460,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/1dcea4_98941166bfd645258d595a759793229e~mv2.png" alt="Ciudades TREQ" width="800">
 </p>
 
-El proyecto TREQ, se realizó entre septiembre de 2019 y junio de 2022. Esta fue una iniciativa coordinada por la [Fundación GEM](https://www.globalquakemodel.org/) y financiada por la [Agencia de los Estados Unidos para el Desarrollo Internacional (USAID)](https://www.usaid.gov/) y su oficina para la asistencia humanitaria (BHA). Múltiples instituciones nacionales y locales hicieron parte en el desarrollo de las actividades, como se indica en las secciones de las correspondientes ciudades.
+El proyecto [TREQ](https://www.globalquakemodel.org/proj/treq-es), se realizó entre septiembre de 2019 y junio de 2022. Esta fue una iniciativa coordinada por la [Fundación GEM](https://www.globalquakemodel.org/) y financiada por la [Agencia de los Estados Unidos para el Desarrollo Internacional (USAID)](https://www.usaid.gov/) y su oficina para la asistencia humanitaria (BHA). Múltiples instituciones nacionales y locales hicieron parte en el desarrollo de las actividades, como se indica en las secciones de las correspondientes ciudades.
 
 
-Página web del proyecto: https://www.globalquakemodel.org/proj/treq-es
+Página web: www.globalquakemodel.org/proj/treq-es
 
 
 # Licencia
