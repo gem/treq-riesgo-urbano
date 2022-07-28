@@ -4,7 +4,8 @@
 
 ## 📂 En este repositorio  
 
-En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico en la ciudad.
+En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico de la ciudad. En el reporte [Evaluación de Riesgo para el Distrito Metropolinato de Quito](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/TREQ%20deliverables/reports/TREQ_D261_Riesgo_Sismico_Quito_v1.00.pdf) [DOI: 10.13140/RG.2.2.16762.16322
+](https://www.researchgate.net/publication/362252440_Proyecto_TREQ_-_Reporte_D261_Evaluacion_de_Riesgo_Sismico_para_el_Distrito_Metropolitano_de_Quito) puede encontrar la metodología y suposiciones del análisis de riesgo.
 
 - **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos.
 - **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake.
@@ -18,7 +19,7 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 
 ## Vistazo de los resultados de riesgo sísmico
 
-El reporte [Evaluación del riesgo sísmico para el DMQ](./TREQ_Deliverable_D262_Riesgo_Sismico_Quito.pdf) presenta los detalles de los modelos utilizados y resultados obtenidos.
+Para mayores detalles del modelo de riesgo sísmico y sus componentes dale un vistazo al video [Evaluación de Riesgo Sísmico para el Distrito Metropolitano de Quito: Resumen de Resultados](https://youtu.be/Bvj3VPFhQuc). Para mayor información sobre como utilizar este repositorio dale un vistazo a [este video](https://youtu.be/FckyM5mZP10).
 
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
@@ -66,16 +67,20 @@ Los siguientes entregables (Deliverables) del proyecto TREQ son relevantes para 
 <div align='right'>
 
   <img src="https://metrodequito.gob.ec/wp-content/uploads/2018/01/noticia-logo-nuevo.jpg" alt="Alcaldía de Quito" width="100"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="150"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/2560px-USGS_logo_green.svg.png" alt="USGS" width="120"/>
 
-  <img src="https://cacmq.gob.ec/sistemas/operativos/images/logos/sgsg.png" alt="Quito, Secretaría de seguridad" width="150"/>
+  <img src="https://cacmq.gob.ec/sistemas/operativos/images/logos/sgsg.png" alt="Quito, Secretaría de seguridad" width="120"/>
 
-  <img src="https://seeklogo.com/images/E/epmaps-agua-de-quito-logo-876095CBC6-seeklogo.com.png" alt="EPMAPS" width="150"/>
+  <img src="https://aulavirtual.aguaquito.gob.ec/pluginfile.php/1/theme_moove/logo/1656697746/unnamed.jpg" alt="EPMAPS" width="120"/>
 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV5b8jCxkKvXjdyFUe5ie7rNcu9HythoOLtQ&usqp=CAU" alt="PUCE" width="150"/>
   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="120"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="150"/>
+  
 </div>
 
 Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
@@ -93,7 +98,7 @@ En particular, queremos agradecer a la Alcaldía de el DMQ por su aporte, a trav
 | Irwin Álvarez | Dirección Metropolitana de Gestión del Riesgo (DMGR) |
 | Jorge Ordóñez | Dirección Metropolitana de Gestión del Riesgo (DMGR) |
 | Jose Marrero | Oficina de la Alcaldía |
-| Kishor Jaiwal | United States Geological Survey (USGS) |
+| Kishor Jaiswal | United States Geological Survey (USGS) |
 | Marco Pagani | Fundación GEM |
 | Robert Chase | United States Geological Survey (USGS) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |

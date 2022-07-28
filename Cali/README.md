@@ -4,7 +4,7 @@
 
 ## 📂 En este repositorio  
 
-En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico en la ciudad.
+En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico de la ciudad. En el reporte [Evaluación de Riesgo para Santiago de Cali](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/TREQ%20deliverables/reports/TREQ_D262_Riesgo_Sismico_Cali_v1.00.pdf) [DOI: 10.13140/RG.2.2.28506.21444](https://www.researchgate.net/publication/362253150_Proyecto_TREQ_-_Reporte_D262_Evaluacion_de_Riesgo_Sismico_para_Santiago_de_Cali) puede encontrar la metodología y suposiciones del análisis de riesgo.
 
 - **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos.
 - **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake.
@@ -17,6 +17,8 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 
 
 ## Vistazo de los resultados de riesgo sísmico
+
+Para mayores detalles del modelo de riesgo sísmico y sus componentes dale un vistazo al video [Evaluación de Riesgo Sísmico para la Ciudad de Santiago de Cali: Resumen de Resultados](https://youtu.be/mVhQ0ZQchLY). Para mayor información sobre como utilizar este repositorio dale un vistazo a [este video](https://www.youtube.com/watch?v=foLn4Jc76RY).
 
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
@@ -70,14 +72,17 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 <div align='right'>
 
   <img src="https://www.cali.gov.co/info/principal/media/bloque210342.png" alt="Alcaldía de Cali" width="100"/>
-
-  <img src="https://www.sgc.gov.co/static/media/Logo_SGC.8391f3a4.svg" alt="SGC" width="200"/>
-
-  <img src="https://www.eafit.edu.co/SiteCollectionImages/logo.png" alt="EAFIT" width="200"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
-
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/2560px-USGS_logo_green.svg.png" alt="USGS" width="150"/>
+
+  <img src="https://www.sgc.gov.co/static/media/Logo_SGC.8391f3a4.svg" alt="SGC" width="150"/>
+
+  <img src="https://conexa.eafit.edu.co/wp-content/uploads/2016/03/logoEafit.png" alt="EAFIT" width="150"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="150"/>
+
 </div>
 
 Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
@@ -91,22 +96,24 @@ En particular, queremos agradecer a la Alcaldía de Santiago de Cali por su apor
 | Ana Beatriz Acevedo | Universidad EAFIT |
 | Andrés Prieto | Oficinas de Planeación Municipal |
 | Catalina Yepes Estrada | Fundación GEM |
+| Daniela González | Universidad EAFIT |
 | Fernando Javier Díaz | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
 | Julian Gomez Arbelaez| Secretaría de Gestión del Riesgo de Emergencias y Desastres |
 | Juliana Arenas Guzman| Universidad EAFIT |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
 | Hector Jose Perez Barrera  | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
+| Kishor Jaiswal | United States Geological Survey (USGS) |
 | Lana Todorović | Fundación GEM |
 | Marco Pagani | Fundación GEM |
 | Miguel Genaro Mora | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
 | Monica Arcila Rivera | Dirección de Geoamenazas, Servicio Geológico Colombiano (SGC) |
+| Nathalie García | Secretaría de Gestión del Riesgo de Emergencias y Desastres |
 | Natalia Gomez Mazuera | Ingeneira Civil, Cali |
 | Robert Chase | United States Geological Survey (USGS) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |
 | Richard Styron | Fundación GEM |
 | Shreyasvi Chandrasekhar | Fundación GEM |
 | Srahyrlandy Rocio Diaz Sanchez | Secretaría de Gestión del Riesgo de Emergencias y Desastres |
-
 
 # Licencia
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]

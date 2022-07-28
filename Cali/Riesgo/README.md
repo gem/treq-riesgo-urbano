@@ -1,8 +1,12 @@
 # RESULTADOS DE RIESGO
 
 Los archivos de salida de los diferentes cálculos de OpenQuake y sus correspondientes mapas están disponibles en las siguientes carpetas:
+* Event_Based
+* Scenarios
 
 Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad están disponibles en el [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
+
+Todos los resultados de riesgo que se presentan en este repositorio corresponden a cálculos usando las funciones de amplificación desarrolladas para la ciudad dentro de las actividades del proyecto TREQ.
 
 
 ## Cálculos probabilísticos (Event_Based)
@@ -35,8 +39,11 @@ Los perfiles de mitigación y de escenarios sísmicos generados para la ciudad e
 |   12   |    47119    | usp00091q3.npy                          | Terremoto de 1999                                           |      6.1      |        52       |
 |   13   |    47113    | usp000d8gx.npy                          | Terremoto de 2004                                           |      7.2      |        15       |
 
+<p align="center">
+  <img src="./tabla_cali.jpg" alt="Tabla de resultados de escenarios sísmicos" width="1050">
+</p>
+
 ### Perfiles de escenarios de riesgo sísmico
 <p align="center">
   <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">
 </p>
-

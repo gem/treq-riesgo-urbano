@@ -4,7 +4,7 @@
 
 ## 📂 En este repositorio  
 
-En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico en la ciudad.
+En este repositorio se puede encontrar los modelos desarrollados y resultados obtenidos para la evaluación del riesgo sísmico de la ciudad. En el reporte [Evaluación de Riesgo para Santiago de los Caballeros](https://cloud-storage.globalquakemodel.org/public/wix-new-website/pdf-collections-wix/publications/TREQ%20deliverables/reports/TREQ_D263_Riesgo_Sismico_Santiago_v1.00.pdf) [DOI: 10.13140/RG.2.2.30124.95363/1](https://www.researchgate.net/publication/362126057_Proyecto_TREQ_-_Reporte_D263_Evaluacion_de_Riesgo_Sismico_para_Santiago_de_los_Caballeros) puede encontrar la metodología y suposiciones del análisis de riesgo.
 
 - **Amenaza:** Incluye información relativa al modelo de amenaza sísmica de referencia utilizado en los cálculos probabilísticos y para la selección de los escenarios sísmicos.
 - **Condiciones_Sitio:** Archivos con los modelos de las condiciones de sitio en formato compatible con OpenQuake.
@@ -18,7 +18,7 @@ En este repositorio se puede encontrar los modelos desarrollados y resultados ob
 
 ## Vistazo de los resultados de riesgo sísmico
 
-El reporte [Evaluación del riesgo sísmico para Santiago de los Caballeros](./TREQ_Deliverable_D262_Riesgo_Sismico_Santiago.pdf) presenta los detalles de los modelos utilizados y resultados obtenidos.
+Para mayores detalles del modelo de riesgo sísmico y sus componentes dale un vistazo al video [Evaluación de Riesgo Sísmico para Santiago de los Caballeros: Resumen de Resultados](https://youtu.be/EgGev6_ZGF4). Para mayor información sobre como utilizar este repositorio dale un vistazo a [este video](https://www.youtube.com/watch?v=C6eaF0q4I5o).
 
 ### Perfiles de mitigación del riesgo sísmico (mediano y largo plazo)
 <p align="center">
@@ -67,13 +67,17 @@ Los siguientes entregables (deliverables) del proyecto TREQ son relevantes para 
 ## 🌟 Colaboradores 
 <div align='right'>
 
-  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="200"/>
+  <img src="https://ayuntamientosantiago.gob.do/wp-content/uploads/2020/04/Logo-AS2018-03-1-1-01-1.svg" alt="Ayuntamiento Santiago" width="250"/>
+  
+  <img src="./sgn.png" alt="SGN" width="110"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="230"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/2560px-USGS_logo_green.svg.png" alt="USAID" width="150"/>
 
-  <img src="https://www.sgn.gob.do/images/Logos/favicon.png" alt="SGN" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="150"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Global_Earthquake_Model_Logo.png/440px-Global_Earthquake_Model_Logo.png" alt="GEM Foundation" width="200"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/USAID-Identity.svg" alt="USAID" width="200"/>
+  
 </div>
 
 Agradecemos a las instituciones y colaboradores que participaron en el desarrollo de las actividades del proyecto TREQ en la ciudad. Esto incluye la facilitación de la información de entrada, desarrollo de los modelos y revisión de la información.
@@ -89,14 +93,16 @@ En particular, queremos agradecer al Ayuntamiento de Santiago de los Caballeros 
 | Edwin García | Servicio Geológico Nacional (SGN) |
 | Freddy Duran | Servicio Geológico Nacional (SGN) |
 | Galvy Núñez | ONESVIE |
-| Kerman | Oficina de Ordenamiento Territorial de Santiago |
+| Kerman Rodríguez | Oficina de Ordenamiento Territorial de Santiago |
+| Kishor Jaiswal | United States Geological Survey (USGS) |
 | Julio García Pelaez | Antiguo miembro de la Fundación GEM |
-| Leonardo Reyes | Madera ONESVIE |
+| Leonardo Reyes Madera | ONESVIE |
 | Marco Antonio Gomez | Oficina de Ordenamiento Territorial de Santiago |
 | Marco Pagani | Fundación GEM |
 | María Betania Roque de Medina | Antiguo miembro del Servicio Geológico Nacional (SGN) |
 | Pedro Iván Marquez | ONESVIE |
 | Ramon Delanoy | Universidad Autónoma de Santo Domingo (UASD) |
+| Robert Chase | United States Geological Survey (USGS) |
 | Robin Gee | Antiguo miembro de la Fundación GEM |
 | Richard Styron | Fundación GEM |
 | Santiago Muñoz | Antiguo miembro del Servicio Geológico Nacional (SGN) |

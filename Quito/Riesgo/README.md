@@ -1,9 +1,13 @@
 # RESULTADOS DE RIESGO
 
 Los archivos de salida de los diferentes cálculos de OpenQuake y sus correspondientes mapas están disponibles en las siguientes carpetas:
+* Event_Based
+* Scenarios
+* Volanic
 
 El perfiles de mitigación, los de escenarios sísmicos y de escenarios volcánicos generados para la ciudad están disponibles en el [archivo perfiles de riesgo.pdf](./perfiles_de_riesgo.pdf).
 
+Todos los resultados de riesgo que se presentan en este repositorio corresponden a cálculos usando las funciones de amplificación desarrolladas para la ciudad dentro de las actividades del proyecto TREQ. Sin embargo, en la Carpeta_ref 45298 se proporcionan los resultados utilizando valores aproximados de Vs30 como referencia.
 
 ## Cálculos probabilísticos (Event_Based)
 
@@ -30,6 +34,10 @@ El perfiles de mitigación, los de escenarios sísmicos y de escenarios volcáni
 |   6    |    47125    | official19060131153610_30.npy | Nazca, Terremoto de 1906 Subducción de la Placa de Nazca |     8.8       |      20         |
 |   7    |    47137    | us20005j32.npy                | Manabí, Terremoto de Muisne de 2016                      |     7.8       |      20         |
 
+<p align="center">
+  <img src="./tabla_quito.jpg" alt="Tabla de resultados de escenarios sísmicos" width="1050">
+</p>
+
 ### Perfiles de escenarios de riesgo sísmico
 <p align="center">
   <img src="./perfiles_escenarios.gif" alt="Perfiles de escenarios de riesgo sísmico" width="700">
@@ -47,6 +55,9 @@ El perfiles de mitigación, los de escenarios sísmicos y de escenarios volcáni
 |     90      | Atacazo Ninahuilca Eruption de 5.440 a AP - (N4) - Lahares          |
 
 ### Perfiles de escenarios de riesgo volcánico
+
+Estos perfiles de riesgo volcánico son preliminares y consideran una envolvente de todos los peligros volcánicos asociados con cada escenario. Por ende muestran el umbral máximo del riesgo sin considerar las incertidumbres asociadas a dichos peligros en su forma actual.
+
 <p align="center">
   <img src="./perfiles_volcanes.gif" alt="Perfiles de escenarios de riesgo volcánico" width="700">
 </p>
