@@ -50,6 +50,7 @@ En la página web, www.globalquakemodel.org/proj/treq-es, se puede encontrar [la
 
 # Licencia
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![DOI](https://zenodo.org/badge/505488775.svg)](https://zenodo.org/badge/latestdoi/505488775)
 
 Esta trabajo está bajo una
 [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
