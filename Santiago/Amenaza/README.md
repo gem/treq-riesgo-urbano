@@ -10,4 +10,4 @@ La caracterización de las fuentes sísmicas, de los modelos de movimiento del t
 
 
 <img src="Amenaza_sismica_Santiago.png">
-Visite el sitio dónde puede descargar el reporte y los archivos en formato OpenQuake del modelo: https://www.globalquakemodel.org/product/dominican-republic-hazard-model
+Visite el sitio dónde puede descargar el reporte y los archivos en formato OpenQuake del modelo: https://www.globalquakemodel.org/product/dominican-republic-hazard
